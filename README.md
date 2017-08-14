@@ -16,6 +16,11 @@ Website ini dibuat untuk project saya di Hacktiv8. Concept dari website ini adal
 9.a
 10.h(1,2,3)
 
+
+# Future Plan
+
+In the near future, saya berusaha untuk memperbaiki styling dan formating css dan html. Agenda pertama yang akan saya lakukan adalah memperbaiki link-link dibawah tulisan "Angga Priambada Portfolio". Lalu saya ingin merubah website itu menjadi lebih "Responsive" sehingga bisa di akses lewat mobile devices. Rencananya, saya ingin membuat website nya lebih streamline, alias websitenya tidak memiliki banyak link kecuali link di header. Content rencananya bisa di view hanya dengan scroll down. Saat ini saya sedang dalam proses memperbaiki index.html saya.
+
 # About me
 
 Ida Bagus Angga Priambada.
